@@ -627,7 +627,7 @@ li.social-links a {
 .home-one-slider-otem::before{
 	content: "";
 	position: absolute;
-	background: rgba(0,0,0, 0.8);
+	/*background: rgba(0,0,0, 0.8);*/
 	width: 100%;
 	height: 100%;
 	top: 0%;
